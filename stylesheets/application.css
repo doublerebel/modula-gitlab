@@ -91,8 +91,6 @@ h1 {
 	font-family: 'Korolev', sans-serif;
 	margin: 15px 24px;
 	padding: 0;
-	width: 400px;
-	float: left;
 }
 h2, h3, h4, .wiki h1, .wiki h2, .wiki h3 { border-bottom: 0px;}
 
