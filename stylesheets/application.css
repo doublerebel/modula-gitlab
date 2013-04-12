@@ -136,6 +136,7 @@ h1, h2, h3 { color: #333; }
 	float: left;
 	width: 850px;
 	position: relative;
+	clear: both;
 }
 #main-menu li a { font-weight: normal; padding: 6px 8px 8px; color: #888; }
 #main-menu li a:hover { 
